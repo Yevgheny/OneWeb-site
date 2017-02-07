@@ -1,0 +1,253 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+	.window .header {
+		display: none;
+	}
+	.top-nav ul li {
+		padding-left: 15px;
+	}
+	.bread-crumbs ul li {
+		margin-right: 10px;
+	}
+	.bread-crumbs ul li:after {
+		right: -10px;
+	}
+	.our-work__pagination--work a.btn-work-left::before {
+		left: 10px;
+	}
+	.our-work__pagination--site a::before {
+		left: 10px;
+	}
+	.our-work__pagination--work a.btn-work-right::after {
+		right: 15px;
+	}
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+	.window .header {
+		display: block;
+	}	
+	.nav-wrap {
+		display: none;
+	}
+	.main-header {
+		padding-top: 55px;
+	}
+	.logo-top {
+		margin-bottom: 40px;
+	}
+	.our-work {
+		padding-top: 275px;
+	}
+	.header-content-wrap {
+	    padding-top: 75px;
+	}
+	.request-call-bottom {
+		padding-top: 25px;
+		margin-bottom: 25px;
+	}
+	.our-work__pagination--site a::before {
+	    left: 215px;
+	}
+	.our-work__pagination--work a.btn-work-left::before {
+		display: none;
+	}
+	.our-work__pagination--work a.btn-work-right::after {
+		display: none;
+	}
+	.our-work__pagination--work a.btn-work-left:hover::before {
+		display: none;
+	}
+	.our-work__pagination--work a.btn-work-right:hover::after {
+		display: none;
+	}
+	a.btn-work-left,
+	a.btn-work-right {
+		width: 100%;
+		height: 50px;
+		background: #6f8dad;
+		border-radius: 3px;
+		padding: 12px;
+	}
+	.btn-work-left:hover,
+	.btn-work-right:hover {
+		background: #082645;
+	}	
+	.our-work__pagination--work,
+	.our-work__pagination--site {
+		margin-bottom: 25px;
+	}
+	.girl-wrap {
+		margin-bottom: -66px;
+	}
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+	.header-content-wrap {
+    	padding-top: 45px;
+	}
+	.bread-crumbs ul li {
+		margin-right: 20px;
+	}
+	.bread-crumbs ul li:after {
+		right: -15px;
+	}
+	.declaration-headline {
+	    padding-top: 25px;
+	    text-align: center;
+	}
+	.icon-wrap ul li {
+		margin-bottom: 40px;
+	}
+	.bread-crumbs {
+		display: none;
+	}
+	.owl-theme .owl-nav {
+		display: none;
+	}
+	.girl-wrap {
+		margin-bottom: -65px;
+	}
+	
+	/*Disable Animation on Mobile Devices*/
+	.animated {
+		/*CSS transitions*/
+		-o-transition-property: none !important;
+		-moz-transition-property: none !important;
+		-ms-transition-property: none !important;
+		-webkit-transition-property: none !important;
+		transition-property: none !important;
+		/*CSS transforms*/
+		-o-transform: none !important;
+		-moz-transform: none !important;
+		-ms-transform: none !important;
+		-webkit-transform: none !important;
+		transform: none !important;
+		/*CSS animations*/
+		-webkit-animation: none !important;
+		-moz-animation: none !important;
+		-o-animation: none !important;
+		-ms-animation: none !important;
+		animation: none !important;
+	}
+
+}
+
+/* Custom, iPhone 6 Plus*/
+@media only screen and (max-width : 736px) {
+	.our-work {
+	    padding-top: 210px;
+	}
+	.declaration-headline {
+		margin-bottom: 25px;
+	}
+	.our-work__pagination--site a::before {
+	    left: 185px;
+	}
+	.girl-wrap {
+		margin-bottom: -58px;
+	}
+}
+
+/* Custom, iPhone 6 */
+@media only screen and (max-width : 667px) {
+	.our-work {
+	    padding-top: 115px;
+	}
+	.our-work__pagination--site a::before {
+		display: none;
+	}
+	.girl-wrap {
+		margin-bottom: -49px;
+	}
+}
+/* Custom, iPhone 5 */
+@media only screen and (max-width : 568px) {
+	.our-work {
+	    padding-top: 75px;
+	}
+	.our-work__content::before {
+		height: 110px;
+	}
+	.girl-wrap {
+		margin-bottom: -41px;
+	}
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+    .our-work {
+	    padding-top: 40px;
+	}
+	.our-work__content {
+		padding-left: 10px;
+	}
+	.girl-wrap {
+		margin-bottom: -35px;
+	}
+}
+
+/* Custom, iPhone 6 Plus*/
+@media only screen and (max-width : 414px) {
+	.our-work__content::before {
+	    height: 135px;
+	}
+	.girl-wrap {
+		margin-bottom: -32px;
+	}
+}
+
+/* Custom, iPhone 6 */
+@media only screen and (max-width : 375px) {
+	.our-work__content::before {
+	    height: 155px;
+	}
+	.main-footer ul {
+		text-align: center;
+	}
+	.main-footer ul li {
+		padding-right: 0;		
+		margin-bottom: 25px;
+	}
+	.girl-wrap {
+		margin-bottom: -27px;
+	}
+}
+
+/* Custom, iPhone Retina */
+@media only screen and (max-width : 320px) {
+
+}
+
+/*==========  Mobile First Method  ==========*/
+
+/* Custom, iPhone Retina */
+@media only screen and (min-width : 320px) {
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+	.window .header {
+		display: none;
+	}
+}
