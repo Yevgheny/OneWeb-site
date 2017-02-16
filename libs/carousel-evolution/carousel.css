@@ -78,7 +78,6 @@ Version: 1.1
 	top :133px;
 	width :35px;
 	height :35px;
-	background : url("images/next_button.png") no-repeat center;
 	cursor :pointer ;
 	z-index :9999;
 }
@@ -89,8 +88,7 @@ Version: 1.1
 	left :10px;
 	top :133px;
 	width :35px;
-	height: 35px;		
-	background : url("images/prev_button.png");
+	height: 35px;	
 	cursor :pointer ;
 	z-index :9999;
 }
@@ -140,19 +138,20 @@ Version: 1.1
 .carousel .buttonNav .bullet
 {
 	position :relative ;
-	float :left ;
+	float: left ;
 	width :14px;
 	height :14px;
 	border: 1px solid #002946;
 	border-radius: 50%;
 	margin :5px;
-	float :left ;
-	cursor :pointer ;
+	float: left;
+	cursor :pointer;
+	transition: .35s ease;
 }
 
 .carousel .buttonNav .bullet:hover
 {
-	background: none;
+	background: #002946;
     border: 1px solid #002946;
 }
 
@@ -168,15 +167,6 @@ Version: 1.1
 /* VIDEO */
 /* ____________________________________________________________ */
 
-.carousel .slides .videoOverlay
-{
-	background :url("images/video.png") no-repeat center; /* play button */
-}
-
-.carousel .slides .spinner
-{
-	background : #000 url(images/loading.gif) no-repeat center; /* video preloader */
-}
 
 /* _____________________________ *
 

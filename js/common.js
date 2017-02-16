@@ -311,3 +311,10 @@ jQuery(document).ready(function($) {
             }
     });
 });
+$("#form-1").validate();
+/*(function($){
+    var features = $('.fitures-block');
+
+    TweenLite.from(features, 1, {autoAlpha: 0, delay: 2});
+
+})(jQuery);*/

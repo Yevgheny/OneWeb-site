@@ -104,3 +104,9 @@
 .icon-angle-left:before {
   content: "\76";
 }
+.icon-skype:before {
+  content: "\77";
+}
+.icon-at-email:before {
+  content: "\78";
+}
