@@ -8,7 +8,7 @@ $(document).ready(function(){
 		autoplay:false, //Автозапуск слайдера
 		smartSpeed:1000, //Время движения слайда
 		autoplayTimeout:2000, //Время смены слайда
-		autoHeight: true,
+		autoHeight: false,
 		items:1,
 		animateOut: 'fadeOut'
 	});
@@ -21,13 +21,9 @@ $(document).ready(function(){
 	    
 	};
 
-	$('#main-form').validate ();
-
-	$('#modal-form').validate ();
-
-	$("#phone").inputmask("+7 ( 999 ) 999 - 99 - 99");
-
-	$("#phone1").inputmask("+7 ( 999 ) 999 - 99 - 99");
-
 	
 });
+	$('#form-3').validate ();
+	$('#form-16').validate ();
+
+	$('#form-17').validate ();

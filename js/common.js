@@ -1,4 +1,11 @@
 /*external js*/
+$(function(){
+   $('a[href^="#main-bottom-form"], a[href^="#testimon-sec"], a[href^="#mp-portfolio"], a[href^="#our-offer"], a[href^="#our-super-team"]').click(function(){
+        var target = $(this).attr('href');
+        $('html, body').animate({scrollTop: $(target).offset().top}, 1000);
+        return false; 
+   }); 
+});
 
 (function() {
 
@@ -311,7 +318,20 @@ jQuery(document).ready(function($) {
             }
     });
 });
-$("#form-1").validate();
+$('.packages-content').hide();    
+    $('.packages-content:first').show();    
+    $('.packages-nav__item:first').addClass('active');
+   
+    $('.packages-nav__item').click(function(event) {
+        event.preventDefault();       
+        $('.packages-nav__item').removeClass('active');      
+        $(this).addClass('active');       
+        $('.packages-content').hide();
+       
+        var selectTab = $(this).find('a').attr("href");        
+        $(selectTab).fadeIn();
+    });
+
 /*(function($){
     var features = $('.fitures-block');
 
