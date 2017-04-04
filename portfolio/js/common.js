@@ -2,13 +2,13 @@
 $(document).ready(function(){
 	$('#our-work-slider').owlCarousel({
 		items:1,
-		loop:true, //Зацикливаем слайдер
+		loop:false, //Зацикливаем слайдер
 		margin:10, //Отступ от картино если выводите больше 1		
 		nav:true, //Отключил навигацию
 		autoplay:false, //Автозапуск слайдера
 		smartSpeed:1000, //Время движения слайда
 		autoplayTimeout:2000, //Время смены слайда
-		autoHeight: false,
+		autoHeight: true,
 		items:1,
 		animateOut: 'fadeOut'
 	});

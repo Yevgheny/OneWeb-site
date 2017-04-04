@@ -37,15 +37,7 @@
 				<div class="row">
 					<div class="col-md-offset-1 col-md-4">
 						<div class="icon-wrap">
-							<ul>
-								<li>
-									<div class="icon-wrap__icon">
-										<img src="images/icon-file.png" alt="Текст">
-									</div>
-									<div class="icon-wrap__signature">
-										<p>Текст</p>
-									</div>
-								</li>
+							<ul>								
 								<li>
 									<div class="icon-wrap__icon">
 										<img src="images/icon-psd.png" alt="Дизайн">
@@ -53,15 +45,7 @@
 									<div class="icon-wrap__signature">
 										<p>Дизайн</p>
 									</div>
-								</li>
-								<li>
-									<div class="icon-wrap__icon">
-										<img src="images/icon-browser.png" alt="Верстка">
-									</div>
-									<div class="icon-wrap__signature">
-										<p>Верстка</p>
-									</div>
-								</li>
+								</li>								
 							</ul>
 						</div> <!-- end wrap-icon -->
 					</div> 

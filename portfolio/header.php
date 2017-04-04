@@ -11,6 +11,7 @@
 	<meta name="description" content="Разработка, создание и продвижение веб сайтов, дизайн логотипов, групп в контакте." />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<link rel="canonical" href="https://oneweb-team.com/portfolio.html">
 	<!-- Template Basic Images Start -->
 	<meta property="og:image" content="path/to/image.jpg">
 	<link rel="shortcut icon" href="../img/favicon/favicon.ico" type="image/x-icon">
@@ -53,19 +54,19 @@
 	            		<div class="icon icon-apple"></div>
 	            		<ul class="menu">
 	                		<li class="active">
-								<a href="http://oneweb-team.com/portfolio.html">Портфолио </a>
+								<a href="https://oneweb-team.com/portfolio.html">Портфолио </a>
 							</li>
 							<li>
-								<a href="http://oneweb-team.com#serv-packages">Услуги </a>
+								<a href="https://oneweb-team.com#serv-packages">Услуги </a>
 							</li>
 							<li>
-								<a href="http://oneweb-team.com#our-super-team">Команда </a>
+								<a href="https://oneweb-team.com#our-super-team">Команда </a>
 							</li>
 							<li>
-								<a href="http://oneweb-team.com#testimon-sec">Отзывы</a>
+								<a href="https://oneweb-team.com#testimon-sec">Отзывы</a>
 							</li>
 							<li>
-								<a href="http://oneweb-team.com#main-bottom-form">Контакты</a>
+								<a href="https://oneweb-team.com#main-bottom-form">Контакты</a>
 							</li>                            
 	            		</ul>
 	            		<div class="shop icon icon-bag"></div>
@@ -74,7 +75,7 @@
 				<div class="row">
 					<div class="col-md-2">
 						<div class="logo-top">
-							<a href="http://oneweb-team.com/">
+							<a href="https://oneweb-team.com/">
 								<img src="images/logo-Oneweb.png" alt="logo-Oneweb">
 							</a>
 						</div>
@@ -84,19 +85,19 @@
 							<nav class="top-nav top-header-nav">
 								<ul class="top-nav__list hp-top-header__nav-list">
 									<li class="active">
-										<a href="http://oneweb-team.com/portfolio.html">Портфолио </a>
+										<a href="https://oneweb-team.com/portfolio.html">Портфолио </a>
 									</li>
 									<li>
-										<a href="http://oneweb-team.com#serv-packages">Услуги </a>
+										<a href="https://oneweb-team.com#serv-packages">Услуги </a>
 									</li>
 									<li>
-										<a href="http://oneweb-team.com#our-super-team">Команда </a>
+										<a href="https://oneweb-team.com#our-super-team">Команда </a>
 									</li>
 									<li>
-										<a href="http://oneweb-team.com#testimon-sec">Отзывы</a>
+										<a href="https://oneweb-team.com#testimon-sec">Отзывы</a>
 									</li>
 									<li>
-										<a href="http://oneweb-team.com#main-bottom-form">Контакты</a>
+										<a href="https://oneweb-team.com#main-bottom-form">Контакты</a>
 									</li>
 								</ul>
 							</nav><!-- end nav-->
@@ -115,8 +116,8 @@
 								<div class="bread-crumbs">
 									<ul>
 										<li>
-											<a href="http://oneweb-team.com/">Главная</a>
+											<a href="https://oneweb-team.com/">Главная</a>
 										</li>
 										<li>
-											<a href="http://oneweb-team.com/portfolio.html">Портфолио</a>
+											<a href="https://oneweb-team.com/portfolio.html">Портфолио</a>
 										</li>
