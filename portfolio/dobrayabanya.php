@@ -91,7 +91,7 @@
 						</div>
 						<div class="col-md-4">
 							<div class="our-work__pagination--site">
-								<a href="http://russkaya-banya-samara.ru/" target="_blank">russkaya-banya-samara.ru</a>
+								<a href="http://russkaya-banya-samara.ru/" rel="nofollow" target="blank">russkaya-banya-samara.ru</a>
 							</div>
 						</div>
 						<div class="col-md-3">

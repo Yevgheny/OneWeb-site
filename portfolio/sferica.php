@@ -108,7 +108,7 @@
 						</div>
 						<div class="col-md-4">
 							<div class="our-work__pagination--site">
-								<a href="http://www.sferica-shop.com/" target="_blank">www.sferica-shop.com</a>
+								<a href="http://www.sferica-shop.com/" rel="nofollow" target="blank">www.sferica-shop.com</a>
 							</div>
 						</div>
 						<div class="col-md-3">

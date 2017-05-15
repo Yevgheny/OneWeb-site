@@ -70,17 +70,17 @@
 				</div>
 				<div class="col-md-3">
 					<div class="social-block">
-						<a href="https://vk.com/oneweb_lab" target="blank"><i class="icon icon-vk"></i></a>
-						<a href="#"><i class="icon icon-facebook-logo"></i></a>
-						<a href="#"><i class="icon icon-instagram-big-logo"></i></a>
-						<a href="#" class="social-skype"><i class="icon icon-skype"></i></a>
-						<a href="mailto:info@oneweb-team.com"><i class="icon icon-at-email"></i></a>
+						<a href="https://vk.com/oneweb_lab"  rel="nofollow" target="blank"><i class="icon icon-vk"></i></a>
+						<a href="#"  rel="nofollow"><i class="icon icon-facebook-logo"></i></a>
+						<a href="#"  rel="nofollow"><i class="icon icon-instagram-big-logo"></i></a>
+						<a href="skype:oneweb_2" rel="nofollow" class="social-skype"><i class="icon icon-skype"></i></a>
+						<a href="mailto:info@oneweb-team.com" rel="nofollow" target="blank"><i class="icon icon-at-email"></i></a>
 					</div>
 				</div>
 				<div class="col-md-3">
 					<div class="tel-box">
-						<a href="tel:+79536720149">+7 953 672 01 49 (RU)</a>
-						<a href="tel:+77783320316">+7 778 332 03 16 (KZ)</a>
+						<a href="tel:+79536720149"  rel="nofollow">+7 953 672 01 49 (RU)</a>
+						<a href="tel:+77783320316" rel="nofollow">+7 778 332 03 16 (KZ)</a>
 					</div>
 				</div>
 			</div><div class="row">

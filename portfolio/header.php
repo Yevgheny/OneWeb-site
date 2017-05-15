@@ -9,6 +9,7 @@
 	<meta charset="utf-8" />
 	<title>OneWeb Разработка, создание и продвижение веб сайтов</title>
 	<meta name="description" content="Разработка, создание и продвижение веб сайтов, дизайн логотипов, групп в контакте." />
+	<meta name="keywords" content="сайт, создание сайтов, верстка, дизайн, вордпресс, блог" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<link rel="canonical" href="https://oneweb-team.com/portfolio.html">
